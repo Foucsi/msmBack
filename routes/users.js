@@ -13,6 +13,19 @@ router.get("/", function (req, res, next) {
 });
 
 /* get Profil by Token */
+router.get("/getProfilByToken/:token", async (req, res) => {
+  const token = req.params.token;
+  try {
+    const data = await User.findOne({ token });
+    const profil = data.profil;
+    if (!data) {
+      res.json({ result: false, message: "User not found!" });
+    }
+    res.json({ result: true, profil });
+  } catch (err) {
+    res.json({ result: false, message: err });
+  }
+});
 
 /* route signup */
 router.post("/signup", async (req, res) => {
