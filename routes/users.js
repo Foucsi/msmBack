@@ -12,10 +12,12 @@ router.get("/", function (req, res, next) {
   res.send("respond with a resource");
 });
 
+/* get Profil by Token */
+
 /* route signup */
 router.post("/signup", async (req, res) => {
   // Extract the required fields from the request body
-  const { username, email, password } = req.body;
+  const { username, email, password, profil } = req.body;
   // Check if the required fields are present and not empty
   if (!checkBody(req.body, ["username", "password"])) {
     return res.json({ result: false, error: "Missing or empty fields" });
@@ -41,6 +43,24 @@ router.post("/signup", async (req, res) => {
   const savedUser = await newUser.save();
   // Return a success response with the saved user data
   res.json({ result: true, user: savedUser });
+});
+
+/* route signin */
+router.post("/signin", async (req, res) => {
+  if (!checkBody(req.body, ["username", "password"])) {
+    res.json({ result: false, error: "Missing or empty fields" });
+    return;
+  }
+  try {
+    const data = await User.findOne({ username: req.body.username });
+    if (data && (await bcrypt.compare(req.body.password, data.password))) {
+      res.json({ result: true, user: data });
+    } else {
+      res.json({ result: false, error: "User not found or wrong password" });
+    }
+  } catch (err) {
+    res.json({ result: false, error: err });
+  }
 });
 
 module.exports = router;
