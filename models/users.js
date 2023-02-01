@@ -16,8 +16,8 @@ const userSchema = mongoose.Schema({
   password: String,
   token: String,
   profil: String,
-  factures: [factureSchema],
-  devis: [devisSchema],
+  factures: [factureSchema], // sous-documents
+  devis: [devisSchema], // sous-documents
 });
 
 const User = mongoose.model("users", userSchema);
