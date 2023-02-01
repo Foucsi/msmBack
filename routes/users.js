@@ -17,11 +17,11 @@ router.get("/getProfilByToken/:token", async (req, res) => {
   const token = req.params.token;
   try {
     const data = await User.findOne({ token });
-    const profil = data.profil;
+
     if (!data) {
       res.json({ result: false, message: "User not found!" });
     }
-    res.json({ result: true, profil });
+    res.json({ result: true, profil: data.profil });
   } catch (err) {
     res.json({ result: false, message: err });
   }
