@@ -7,6 +7,7 @@ const User = require("../models/users");
 const Factures = require("../models/factures");
 const Devis = require("../models/devis");
 
+/* Post a new Devis avec clef etrangere */
 router.post("/:token", async (req, res) => {
   const token = req.params.token;
   if (!checkBody(req.body, ["name"])) {
@@ -31,6 +32,20 @@ router.post("/:token", async (req, res) => {
 
     const saveDevis = await newDevis.save();
     res.json({ result: true, devis: saveDevis });
+  } catch (err) {
+    res.json({ result: false, message: err });
+  }
+});
+
+/* get all devis */
+
+router.get("/getAllDevis", async (req, res) => {
+  try {
+    const data = await Devis.find({});
+    if (!data) {
+      res.json({ result: false });
+    }
+    res.json({ result: true, data });
   } catch (err) {
     res.json({ result: false, message: err });
   }
