@@ -23,6 +23,7 @@ router.post("/:token", async (req, res) => {
     }
     const newDevis = new Devis({
       author: data._id,
+      user: data.username,
       name,
       tel,
       email,
