@@ -51,4 +51,20 @@ router.get("/getAllDevis", async (req, res) => {
   }
 });
 
+/*get allDevis byUsers */
+// On recuperere tous les devis de l'utilisateur
+router.get("/allDevis/:token", async (req, res) => {
+  const token = req.params.token;
+  try {
+    const data = await User.findOne({ token });
+    if (!data) {
+      res.json({ result: false, message: "user not found" });
+    }
+    const devis = await Devis.find({ author: data._id }).populate("author");
+    res.json({ result: true, devis });
+  } catch (err) {
+    res.json({ result: false, message: err });
+  }
+});
+
 module.exports = router;
