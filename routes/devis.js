@@ -10,6 +10,7 @@ const Devis = require("../models/devis");
 /* Post a new Devis avec clef etrangere */
 router.post("/:token", async (req, res) => {
   const token = req.params.token;
+  const { name, tel, email, adress } = req.body;
   if (!checkBody(req.body, ["name"])) {
     res.json({ result: false, error: "Missing or empty fields" });
     return;
@@ -22,10 +23,10 @@ router.post("/:token", async (req, res) => {
     }
     const newDevis = new Devis({
       author: data._id,
-      name: req.body.name,
-      tel: req.body.tel,
-      email: req.body.email,
-      adress: req.body.adress,
+      name,
+      tel,
+      email,
+      adress,
       createdAt: new Date(),
       numero: req.body.numero,
     });
@@ -38,14 +39,13 @@ router.post("/:token", async (req, res) => {
 });
 
 /* get all devis */
-
 router.get("/getAllDevis", async (req, res) => {
   try {
     const data = await Devis.find({});
     if (!data) {
       res.json({ result: false });
     }
-    res.json({ result: true, data });
+    res.json({ result: true, devis: data });
   } catch (err) {
     res.json({ result: false, message: err });
   }
