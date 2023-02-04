@@ -68,4 +68,14 @@ router.get("/allDevis/:token", async (req, res) => {
   }
 });
 
+/* recuperer la longueur du tableau de devis */
+router.get("/getNumberArray", async (req, res) => {
+  const data = await Devis.find({});
+  if (!data) {
+    res.json({ result: false });
+  }
+  const lengthArray = data.length;
+  res.json({ result: true, lengthArray });
+});
+
 module.exports = router;
