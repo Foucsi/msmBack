@@ -91,7 +91,7 @@ router.delete("/deleteDevis", async (req, res) => {
     } else if (String(devis.author._id) !== String(data._id)) {
       res.json({
         result: false,
-        error: "Tweet can only be deleted by its author",
+        error: "Vous n'etes pas autorisé a effectuer cette action",
       });
       return;
     }
