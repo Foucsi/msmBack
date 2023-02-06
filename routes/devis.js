@@ -80,17 +80,27 @@ router.get("/getNumberArray", async (req, res) => {
 
 /* supprimer un tweet */
 router.delete("/deleteDevis", async (req, res) => {
-  const data = await User.findOne({ token: req.body.token });
-  if (!data) {
-    res.json({ result: false, message: "User not found!" });
-  }
-  const devis = await Devis.findById(req.body.devisId).populate("author");
-  if (!devis) {
-    res.json({ result: false, message: "Devis introuvable" });
-  }
-  const deleteDevis = await Devis.deleteOne({ _id: devis._id });
-  if (deleteDevis) {
-    res.json({ result: true });
+  try {
+    const data = await User.findOne({ token: req.body.token });
+    if (!data) {
+      res.json({ result: false, message: "User not found!" });
+    }
+    const devis = await Devis.findById(req.body.devisId).populate("author");
+    if (!devis) {
+      res.json({ result: false, message: "Devis introuvable" });
+    } else if (String(devis.author._id) !== String(data._id)) {
+      res.json({
+        result: false,
+        error: "Tweet can only be deleted by its author",
+      });
+      return;
+    }
+    const deleteDevis = await Devis.deleteOne({ _id: devis._id });
+    if (deleteDevis) {
+      res.json({ result: true });
+    }
+  } catch (err) {
+    res.json({ result: false, message: err });
   }
 });
 
