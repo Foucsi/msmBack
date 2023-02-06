@@ -78,4 +78,20 @@ router.get("/getNumberArray", async (req, res) => {
   res.json({ result: true, lengthArray });
 });
 
+/* supprimer un tweet */
+router.delete("/deleteDevis", async (req, res) => {
+  const data = await User.findOne({ token: req.body.token });
+  if (!data) {
+    res.json({ result: false, message: "User not found!" });
+  }
+  const devis = await Devis.findById(req.body.devisId).populate("author");
+  if (!devis) {
+    res.json({ result: false, message: "Devis introuvable" });
+  }
+  const deleteDevis = await Devis.deleteOne({ _id: devis._id });
+  if (deleteDevis) {
+    res.json({ result: true });
+  }
+});
+
 module.exports = router;
