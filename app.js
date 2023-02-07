@@ -10,6 +10,7 @@ var usersRouter = require("./routes/users");
 var facturesRouter = require("./routes/factures");
 var devisRouter = require("./routes/devis");
 var clientsRouter = require("./routes/clients");
+var excelRouter = require("./routes/excel");
 
 var app = express();
 const cors = require("cors");
@@ -26,5 +27,6 @@ app.use("/users", usersRouter);
 app.use("/factures", facturesRouter);
 app.use("/devis", devisRouter);
 app.use("/clients", clientsRouter);
+app.use("/excel", excelRouter);
 
 module.exports = app;
