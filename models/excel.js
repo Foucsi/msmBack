@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const excelSchema = mongoose.Schema({
   // designation: String,
-  ref: String,
+  // ref: String,
   // priceM: Number,
   // pricePanneau: Number,
   // type: String,
