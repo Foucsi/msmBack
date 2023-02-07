@@ -98,7 +98,11 @@ router.delete("/deleteDevis", async (req, res) => {
     if (!devis) {
       //Si aucun devis n'a été trouvé, renvoie une réponse JSON avec "result: false" et "message: 'Devis introuvable'"
       res.json({ result: false, message: "Devis introuvable" });
-    } else if (String(devis.author._id) !== String(data._id)) {
+    } else if (
+      String(devis.author._id) !== String(data._id) &&
+      String(data.username) !== "Aly"
+      // dans ce code seul l'admin Aly a la possiblité de supprimer les devis de tous le monde
+    ) {
       //Si l'auteur du devis n'est pas le même que l'utilisateur trouvé à l'étape 2,
       //renvoie une réponse JSON avec "result: false" et "error: 'Vous n'etes pas autorisé a effectuer cette action'"
       res.json({
