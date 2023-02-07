@@ -100,7 +100,7 @@ router.delete("/deleteDevis", async (req, res) => {
       res.json({ result: false, message: "Devis introuvable" });
     } else if (
       String(devis.author._id) !== String(data._id) &&
-      String(data.username) !== "Aly"
+      String(data.profil) !== "administrateur"
       // dans ce code seul l'admin Aly a la possiblité de supprimer les devis de tous le monde
     ) {
       //Si l'auteur du devis n'est pas le même que l'utilisateur trouvé à l'étape 2,

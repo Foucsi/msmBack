@@ -9,7 +9,7 @@ router.get("/", async (req, res) => {
   const db = client.db("msm");
   try {
     const data = await db.collection("excel").find().toArray();
-    res.json({ result: true, data });
+    res.json({ result: true, excel: data });
   } catch (err) {
     throw err;
   } finally {
