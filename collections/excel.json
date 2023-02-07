@@ -1,0 +1,6893 @@
+[{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ac6"
+    },
+    "Désignation": "Acacia Branson cognac",
+    "REF": "H1251",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ac7"
+    },
+    "Désignation": "Acacia Branson gris tourterelle",
+    "REF": "H1252",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ac8"
+    },
+    "Désignation": "Acacia Branson truffe",
+    "REF": "H1253",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ac9"
+    },
+    "Désignation": "Acacia de Lakeland crème",
+    "REF": "H1277",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aca"
+    },
+    "Désignation": "Acier brossé cubanite",
+    "REF": "F434",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9acb"
+    },
+    "Désignation": "Acier foncé",
+    "REF": "F627",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9acc"
+    },
+    "Désignation": "Acier foncé",
+    "REF": "F627",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9acd"
+    },
+    "Désignation": "Agglo Hydro 19",
+    "REF": "AG19H",
+    "€/m2": 9.9,
+    "€/Panneau": 57.3804,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ace"
+    },
+    "Désignation": "Agglo Hydro 30",
+    "REF": "AG30H",
+    "€/m2": 16.4,
+    "€/Panneau": 95.0544,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 30,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9acf"
+    },
+    "Désignation": "Agglo Hydro 38",
+    "REF": "AG38H",
+    "€/m2": 21.5,
+    "€/Panneau": 124.614,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 38,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad0"
+    },
+    "Désignation": "Agglo Standard 10",
+    "REF": "AG10",
+    "€/m2": 5.2,
+    "€/Panneau": 30.1392,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 10,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad1"
+    },
+    "Désignation": "Agglo Standard 16",
+    "REF": "AG16",
+    "€/m2": 6.8,
+    "€/Panneau": 39.4128,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad2"
+    },
+    "Désignation": "Agglo Standard 19",
+    "REF": "AG19H",
+    "€/m2": 7.5,
+    "€/Panneau": 43.47,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad3"
+    },
+    "Désignation": "Agglo M1 12",
+    "REF": "AG12M1",
+    "€/m2": 10.6,
+    "€/Panneau": 61.4376,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 12,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad4"
+    },
+    "Désignation": "Agglo M1 16",
+    "REF": "AG16M1",
+    "€/m2": 12.5,
+    "€/Panneau": 72.45,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad5"
+    },
+    "Désignation": "Agglo M1 19",
+    "REF": "AG19M1",
+    "€/m2": 12.9,
+    "€/Panneau": 74.7684,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Aggloméré",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad6"
+    },
+    "Désignation": "Aluminium",
+    "REF": "F509",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad7"
+    },
+    "Désignation": "Aluminium brossé",
+    "REF": "F501",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad8"
+    },
+    "Désignation": "Ardoise du Jura anthracite",
+    "REF": "F242",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ad9"
+    },
+    "Désignation": "Ardoise métallisée argent anthracite",
+    "REF": "F628",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST16"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ada"
+    },
+    "Désignation": "Ardoise métallisée noir doré",
+    "REF": "F629",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST16"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9adb"
+    },
+    "Désignation": "Bamenda grège",
+    "REF": "H1115",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9adc"
+    },
+    "Désignation": "Beige",
+    "REF": "U200",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9add"
+    },
+    "Désignation": "Beige rosé",
+    "REF": "U156",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ade"
+    },
+    "Désignation": "Beige sable",
+    "REF": "U156",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9adf"
+    },
+    "Désignation": "Béton Chicago gris clair",
+    "REF": "F186",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae0"
+    },
+    "Désignation": "Béton Chicago gris foncé",
+    "REF": "F187",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae1"
+    },
+    "Désignation": "Béton clair",
+    "REF": "F274",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae2"
+    },
+    "Désignation": "Béton clair de Cefalù",
+    "REF": "F823",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae3"
+    },
+    "Désignation": "Béton foncé",
+    "REF": "F275",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae4"
+    },
+    "Désignation": "Béton sablé blanc",
+    "REF": "F486",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST76"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae5"
+    },
+    "Désignation": "Béton sablé ocre rouge",
+    "REF": "F484",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST87"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae6"
+    },
+    "Désignation": "Blanc albâtre",
+    "REF": "U104",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae7"
+    },
+    "Désignation": "Blanc alpin",
+    "REF": "W1100",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae8"
+    },
+    "Désignation": "Blanc alpin",
+    "REF": "W1100",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ae9"
+    },
+    "Désignation": "Blanc alpin",
+    "REF": "W1100",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aea"
+    },
+    "Désignation": "Blanc alpin",
+    "REF": "W1100",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aeb"
+    },
+    "Désignation": "Blanc alpin",
+    "REF": "W1100",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aec"
+    },
+    "Désignation": "Blanc alpin intégral",
+    "REF": "W1101",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST76"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aed"
+    },
+    "Désignation": "Blanc alpin intégral",
+    "REF": "W1101",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aee"
+    },
+    "Désignation": "Blanc cassé",
+    "REF": "U216",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aef"
+    },
+    "Désignation": "Blanc craie",
+    "REF": "W908",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G1",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "SM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af0"
+    },
+    "Désignation": "Blanc craie",
+    "REF": "W908",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G1",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af1"
+    },
+    "Désignation": "Blanc Craie 12",
+    "REF": "W908_12",
+    "€/m2": 6.6,
+    "€/Panneau": 38.2536,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 12,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af2"
+    },
+    "Désignation": "Blanc Craie 16",
+    "REF": "W908_16",
+    "€/m2": 8.8,
+    "€/Panneau": 51.0048,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af3"
+    },
+    "Désignation": "Blanc Craie 22",
+    "REF": "W908_22",
+    "€/m2": 8.4,
+    "€/Panneau": 48.6864,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af4"
+    },
+    "Désignation": "Blanc Craie 8",
+    "REF": "W908_8",
+    "€/m2": 6.3,
+    "€/Panneau": 36.5148,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af5"
+    },
+    "Désignation": "Blanc écru",
+    "REF": "U222",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af6"
+    },
+    "Désignation": "Blanc kaolin",
+    "REF": "W980",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G2",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "SM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af7"
+    },
+    "Désignation": "Blanc kaolin",
+    "REF": "W980",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G2",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST15"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af8"
+    },
+    "Désignation": "Blanc kaolin 19",
+    "REF": "W980",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G2",
+    "Gpe EGGER Strat": "DS1",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9af9"
+    },
+    "Désignation": "Blanc Kaolin 12",
+    "REF": "W980_12",
+    "€/m2": 7.3,
+    "€/Panneau": 42.3108,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 12,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9afa"
+    },
+    "Désignation": "Blanc Kaolin 16",
+    "REF": "W980_16",
+    "€/m2": 7.6,
+    "€/Panneau": 44.0496,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9afb"
+    },
+    "Désignation": "Blanc Kaolin 22",
+    "REF": "W980_22",
+    "€/m2": 9,
+    "€/Panneau": 52.164,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9afc"
+    },
+    "Désignation": "Blanc Kaolin 8",
+    "REF": "W980_8",
+    "€/m2": 6.9,
+    "€/Panneau": 39.9924,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9afd"
+    },
+    "Désignation": "Blanc Kaolin Hydro 16",
+    "REF": "W980_16H",
+    "€/m2": 12.8,
+    "€/Panneau": 74.1888,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9afe"
+    },
+    "Désignation": "Blanc Kaolin Hydro 19",
+    "REF": "W980_19H",
+    "€/m2": 13.8,
+    "€/Panneau": 79.9848,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9aff"
+    },
+    "Désignation": "Blanc Kaolin Hydro 22",
+    "REF": "W980_22H",
+    "€/m2": 15.5,
+    "€/Panneau": 89.838,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b00"
+    },
+    "Désignation": "Blanc polaire",
+    "REF": "W1300",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b01"
+    },
+    "Désignation": "Blanc porcelaine",
+    "REF": "W1200",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b02"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b03"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b04"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b05"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b06"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b07"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b08"
+    },
+    "Désignation": "Blanc premium",
+    "REF": "W1000",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b09"
+    },
+    "Désignation": "Blanc premium intégral",
+    "REF": "W1001",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0a"
+    },
+    "Désignation": "Blanc premium intégral",
+    "REF": "W1001",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "DS3",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0b"
+    },
+    "Désignation": "Blanc selenite",
+    "REF": "W911",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "SM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0c"
+    },
+    "Désignation": "Blanc selenite",
+    "REF": "W911",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST15"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0d"
+    },
+    "Désignation": "Blanc selenite",
+    "REF": "W911",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0e"
+    },
+    "Désignation": "Bleu cosmique",
+    "REF": "U504",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b0f"
+    },
+    "Désignation": "Bleu de Delft",
+    "REF": "U525",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b10"
+    },
+    "Désignation": "Bleu de France",
+    "REF": "U515",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b11"
+    },
+    "Désignation": "Bleu denim",
+    "REF": "U540",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b12"
+    },
+    "Désignation": "Bleu fumé",
+    "REF": "U507",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b13"
+    },
+    "Désignation": "Bleu glacier",
+    "REF": "U500",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b14"
+    },
+    "Désignation": "Bleu horizon",
+    "REF": "U522",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b15"
+    },
+    "Désignation": "Bleu indigo",
+    "REF": "U599",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b16"
+    },
+    "Désignation": "Bleu indigo",
+    "REF": "U599",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b17"
+    },
+    "Désignation": "Bleu indigo",
+    "REF": "U599",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b18"
+    },
+    "Désignation": "Bleu nuit",
+    "REF": "U570",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b19"
+    },
+    "Désignation": "Bleu outremer",
+    "REF": "U560",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1a"
+    },
+    "Désignation": "Bleu polaire",
+    "REF": "U533",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1b"
+    },
+    "Désignation": "Bleu turquoise",
+    "REF": "U633",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1c"
+    },
+    "Désignation": "Bois de grange",
+    "REF": "H1400",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1d"
+    },
+    "Désignation": "CP Bouleau 1500/3000 12",
+    "REF": "BOUL_12SD",
+    "€/m2": 39.9,
+    "€/Panneau": 179.55,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 12,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1e"
+    },
+    "Désignation": "CP Bouleau 1500/3000 15",
+    "REF": "BOUL_15SD",
+    "€/m2": 47.7,
+    "€/Panneau": 214.65,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 15,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b1f"
+    },
+    "Désignation": "CP Bouleau 1500/3000 18",
+    "REF": "BOUL_18SD",
+    "€/m2": 56.6,
+    "€/Panneau": 254.7,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 18,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b20"
+    },
+    "Désignation": "CP Bouleau 1500/3000 21",
+    "REF": "BOUL_21SD",
+    "€/m2": 65.8,
+    "€/Panneau": 296.1,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 21,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b21"
+    },
+    "Désignation": "CP Bouleau 1500/3000 24",
+    "REF": "BOUL_24SD",
+    "€/m2": 76.5,
+    "€/Panneau": 344.25,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 24,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b22"
+    },
+    "Désignation": "CP Bouleau 1500/3000 30",
+    "REF": "BOUL_30SD",
+    "€/m2": 97.3,
+    "€/Panneau": 437.85,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 30,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b23"
+    },
+    "Désignation": "CP Bouleau 1500/3000 40",
+    "REF": "BOUL_40SD",
+    "€/m2": 135.5,
+    "€/Panneau": 609.75,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 40,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b24"
+    },
+    "Désignation": "CP Bouleau 1500/3000 9",
+    "REF": "BOUL_9SD",
+    "€/m2": 35.4,
+    "€/Panneau": 159.3,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 9,
+    "Dimensions": "1,50x3,00",
+    "Type": "Contreplaqué",
+    "Surface": 4.5
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b25"
+    },
+    "Désignation": "CP Bouleau 2500/1250 15",
+    "REF": "BOUL_15FL",
+    "€/m2": 39.1,
+    "€/Panneau": 122.1875,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 15,
+    "Dimensions": "2,50x1,25",
+    "Type": "Contreplaqué",
+    "Surface": 3.125
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b26"
+    },
+    "Désignation": "CP Bouleau 2500/1250 18",
+    "REF": "BOUL_18FL",
+    "€/m2": 46.5,
+    "€/Panneau": 145.3125,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 18,
+    "Dimensions": "2,50x1,25",
+    "Type": "Contreplaqué",
+    "Surface": 3.125
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b27"
+    },
+    "Désignation": "CP Bouleau 2500/1250 21",
+    "REF": "BOUL_21FL",
+    "€/m2": 54,
+    "€/Panneau": 168.75,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 21,
+    "Dimensions": "2,50x1,25",
+    "Type": "Contreplaqué",
+    "Surface": 3.125
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b28"
+    },
+    "Désignation": "Bouleau de Mainau",
+    "REF": "H1733",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b29"
+    },
+    "Désignation": "Brun noir",
+    "REF": "U989",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2a"
+    },
+    "Désignation": "Brun nubuck",
+    "REF": "U807",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2b"
+    },
+    "Désignation": "Brun sépia",
+    "REF": "U748",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2c"
+    },
+    "Désignation": "Brun taupe",
+    "REF": "U741",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2d"
+    },
+    "Désignation": "Ceramic anthracite",
+    "REF": "F311",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST87"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2e"
+    },
+    "Désignation": "Ceramic Tessina lave",
+    "REF": "F222",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST76"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b2f"
+    },
+    "Désignation": "Cerisier Locarno",
+    "REF": "H1636",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b30"
+    },
+    "Désignation": "Châtaignier du Kentucky sable",
+    "REF": "H1710",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b31"
+    },
+    "Désignation": "Chêne Anthor naturel",
+    "REF": "H3330",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b32"
+    },
+    "Désignation": "Chêne Arizona brun",
+    "REF": "H1151",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b33"
+    },
+    "Désignation": "Chêne Arizona gris",
+    "REF": "H1150",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b34"
+    },
+    "Désignation": "Chêne Bardolino gris",
+    "REF": "H1146",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b35"
+    },
+    "Désignation": "Chêne Bardolino naturel",
+    "REF": "H1145",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b36"
+    },
+    "Désignation": "Chêne Charleston châtain foncé",
+    "REF": "H3154",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b37"
+    },
+    "Désignation": "Chêne Corbridge gris",
+    "REF": "H3156",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b38"
+    },
+    "Désignation": "Chêne Corbridge naturel",
+    "REF": "H3395",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b39"
+    },
+    "Désignation": "Chêne d'Orléans sable",
+    "REF": "H1377",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3a"
+    },
+    "Désignation": "Chêne d'Orléans taupe",
+    "REF": "H1379",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3b"
+    },
+    "Désignation": "Chêne Davos chamois",
+    "REF": "H3133",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3c"
+    },
+    "Désignation": "Chêne Davos naturel",
+    "REF": "H3131",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3d"
+    },
+    "Désignation": "Chêne de Hunton foncé",
+    "REF": "H2033",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3e"
+    },
+    "Désignation": "Chêne de Lancaster naturel",
+    "REF": "H3368",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b3f"
+    },
+    "Désignation": "Chêne de Sorano Clair 8",
+    "REF": "H1334_8",
+    "€/m2": 12.7,
+    "€/Panneau": 73.6092,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b40"
+    },
+    "Désignation": "Chêne Denver chamois",
+    "REF": "H1399",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b41"
+    },
+    "Désignation": "Chêne Denver graphite",
+    "REF": "H1387",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b42"
+    },
+    "Désignation": "Chêne du Kansas marron",
+    "REF": "H1113",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b43"
+    },
+    "Désignation": "Chêne Gladstone blanc",
+    "REF": "H3335",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST28"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b44"
+    },
+    "Désignation": "Chêne Gladstone lave",
+    "REF": "H3342",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST28"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b45"
+    },
+    "Désignation": "Chêne Gladstone naturel",
+    "REF": "H3326",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST28"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b46"
+    },
+    "Désignation": "Chêne Gladstone sable",
+    "REF": "H3309",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST28"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b47"
+    },
+    "Désignation": "Chêne Gladstone tabac",
+    "REF": "H3325",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST28"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b48"
+    },
+    "Désignation": "Chêne Halifax blanc",
+    "REF": "H1176",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b49"
+    },
+    "Désignation": "Chêne Halifax cérusé noir",
+    "REF": "H3178",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4a"
+    },
+    "Désignation": "Chêne Halifax cérusé sable",
+    "REF": "H1336",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4b"
+    },
+    "Désignation": "Chêne Halifax naturel",
+    "REF": "H1180",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4c"
+    },
+    "Désignation": "Chêne Halifax tabac",
+    "REF": "H1181",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4d"
+    },
+    "Désignation": "Chêne Halifax zinc",
+    "REF": "H3176",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST37"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4e"
+    },
+    "Désignation": "Chêne Hamilton naturel",
+    "REF": "H3303",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b4f"
+    },
+    "Désignation": "Chêne Kaisersberg",
+    "REF": "H3349",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b50"
+    },
+    "Désignation": "Chêne Kendal cognac",
+    "REF": "H3398",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b51"
+    },
+    "Désignation": "Chêne Kendal huilée",
+    "REF": "H3171",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b52"
+    },
+    "Désignation": "Chêne Kendal naturel",
+    "REF": "H3170",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b53"
+    },
+    "Désignation": "Chêne lamellé",
+    "REF": "H193",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b54"
+    },
+    "Désignation": "Chêne Lorenzo sable",
+    "REF": "H3146",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b55"
+    },
+    "Désignation": "Chêne Nebraska gris",
+    "REF": "H3332",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b56"
+    },
+    "Désignation": "Chêne Nebraska naturel",
+    "REF": "H3331",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b57"
+    },
+    "Désignation": "Chêne Panneauté 20",
+    "REF": "CHPAN_20",
+    "€/m2": 175.7,
+    "€/Panneau": 535.885,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 20,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b58"
+    },
+    "Désignation": "Chêne Panneauté 26",
+    "REF": "CHPAN_26",
+    "€/m2": 214,
+    "€/Panneau": 652.7,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 26,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b59"
+    },
+    "Désignation": "Chêne Panneauté 32",
+    "REF": "CHPAN_32",
+    "€/m2": 260.2,
+    "€/Panneau": 793.61,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 32,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5a"
+    },
+    "Désignation": "Chêne Panneauté 42",
+    "REF": "CHPAN_42",
+    "€/m2": 338.3,
+    "€/Panneau": 1031.815,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 42,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5b"
+    },
+    "Désignation": "Chêne Santa Fé gris",
+    "REF": "H1331",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5c"
+    },
+    "Désignation": "Chêne Santa Fé vintage",
+    "REF": "H1330",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5d"
+    },
+    "Désignation": "Chêne sauvage naturel",
+    "REF": "H1318",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5e"
+    },
+    "Désignation": "Chêne Sherman anthracite",
+    "REF": "H1346",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST32"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b5f"
+    },
+    "Désignation": "Chêne Sherman cognac",
+    "REF": "H1344",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST32"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b60"
+    },
+    "Désignation": "Chêne Sherman gris",
+    "REF": "H1345",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST32"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b61"
+    },
+    "Désignation": "Chêne Sorano brun noir",
+    "REF": "H1137",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b62"
+    },
+    "Désignation": "Chêne Sorano clair",
+    "REF": "H1334",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b63"
+    },
+    "Désignation": "Chêne thermo noir",
+    "REF": "H1199",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b64"
+    },
+    "Désignation": "Chêne Vicenza",
+    "REF": "H3157",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b65"
+    },
+    "Désignation": "Chêne Vicenza gris",
+    "REF": "H3158",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b66"
+    },
+    "Désignation": "Chêne Whiteriver cérusé gris",
+    "REF": "H1313",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b67"
+    },
+    "Désignation": "Chêne Whiteriver cérusé sable",
+    "REF": "H1312",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b68"
+    },
+    "Désignation": "Chromix argent",
+    "REF": "F638",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST16"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b69"
+    },
+    "Désignation": "Chromix blanc",
+    "REF": "F637",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST16"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6a"
+    },
+    "Désignation": "Chromix bronze",
+    "REF": "F642",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST16"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6b"
+    },
+    "Désignation": "Coco bolo",
+    "REF": "H3012",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6c"
+    },
+    "Désignation": "Epicéa de Bramberg",
+    "REF": "H1487",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6d"
+    },
+    "Désignation": "Erable américain champagne",
+    "REF": "H3860",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6e"
+    },
+    "Désignation": "Erable Mandal naturel",
+    "REF": "H3840",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b6f"
+    },
+    "Désignation": "Fabric Metal anthracite",
+    "REF": "F461",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b70"
+    },
+    "Désignation": "Fer forgé gris titane",
+    "REF": "F313",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b71"
+    },
+    "Désignation": "Ferro bronze",
+    "REF": "F302",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST87"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b72"
+    },
+    "Désignation": "Fineline crème",
+    "REF": "H1424",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b73"
+    },
+    "Désignation": "Fineline Metallic anthracite",
+    "REF": "H3190",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b74"
+    },
+    "Désignation": "Fineline Metallic café",
+    "REF": "H3192",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b75"
+    },
+    "Désignation": "Fleetwood blanc",
+    "REF": "H3450",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b76"
+    },
+    "Désignation": "Fleetwood brun",
+    "REF": "H3453",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b77"
+    },
+    "Désignation": "Fleetwood champagne",
+    "REF": "H3451",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b78"
+    },
+    "Désignation": "Frêne de Lyon sable",
+    "REF": "H1298",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b79"
+    },
+    "Désignation": "Frêne Navarra sable",
+    "REF": "H1250",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7a"
+    },
+    "Désignation": "Golden Patina",
+    "REF": "F411",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7b"
+    },
+    "Désignation": "Graphitewood",
+    "REF": "H1123",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7c"
+    },
+    "Désignation": "Gris angora",
+    "REF": "U705",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7d"
+    },
+    "Désignation": "Gris arctique",
+    "REF": "U788",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7e"
+    },
+    "Désignation": "Gris argile",
+    "REF": "U727",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b7f"
+    },
+    "Désignation": "Gris argile",
+    "REF": "U727",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b80"
+    },
+    "Désignation": "Gris argile",
+    "REF": "U727",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b81"
+    },
+    "Désignation": "Gris argile",
+    "REF": "U727",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b82"
+    },
+    "Désignation": "Gris argile",
+    "REF": "U727",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b83"
+    },
+    "Désignation": "Gris argile foncé",
+    "REF": "U740",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b84"
+    },
+    "Désignation": "Gris brume",
+    "REF": "U775",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b85"
+    },
+    "Désignation": "Gris cachemire",
+    "REF": "U702",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b86"
+    },
+    "Désignation": "Gris cachemire",
+    "REF": "U702",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b87"
+    },
+    "Désignation": "Gris cachemire",
+    "REF": "U702",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b88"
+    },
+    "Désignation": "Gris cachemire",
+    "REF": "U702",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b89"
+    },
+    "Désignation": "Gris cachemire",
+    "REF": "U702",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8a"
+    },
+    "Désignation": "Gris cachemire intégral",
+    "REF": "U7021",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8b"
+    },
+    "Désignation": "Gris carbone",
+    "REF": "U968",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8c"
+    },
+    "Désignation": "Gris céladon",
+    "REF": "U780",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8d"
+    },
+    "Désignation": "Gris clair",
+    "REF": "U708",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8e"
+    },
+    "Désignation": "Gris clair",
+    "REF": "U708",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b8f"
+    },
+    "Désignation": "Gris clair",
+    "REF": "U708",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b90"
+    },
+    "Désignation": "Gris clair",
+    "REF": "U708",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b91"
+    },
+    "Désignation": "Gris clair",
+    "REF": "U708",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b92"
+    },
+    "Désignation": "Gris Clair 8",
+    "REF": "U708_8",
+    "€/m2": 9.9,
+    "€/Panneau": 57.3804,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b93"
+    },
+    "Désignation": "Gris clair intégral",
+    "REF": "U7081",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST76"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b94"
+    },
+    "Désignation": "Gris clair intégral",
+    "REF": "U7081",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b95"
+    },
+    "Désignation": "Gris cubanite",
+    "REF": "U767",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G4",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b96"
+    },
+    "Désignation": "Gris galet",
+    "REF": "U201",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G4",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b97"
+    },
+    "Désignation": "Gris galet",
+    "REF": "U201",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b98"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b99"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9a"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9b"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9c"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9d"
+    },
+    "Désignation": "Gris graphite",
+    "REF": "U961",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9e"
+    },
+    "Désignation": "Gris macadam",
+    "REF": "U732",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9b9f"
+    },
+    "Désignation": "Gris macadam",
+    "REF": "U732",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba0"
+    },
+    "Désignation": "Gris macadam",
+    "REF": "U732",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba1"
+    },
+    "Désignation": "Gris macadam",
+    "REF": "U732",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba2"
+    },
+    "Désignation": "Gris macadam",
+    "REF": "U732",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba3"
+    },
+    "Désignation": "Gris mastic",
+    "REF": "U717",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba4"
+    },
+    "Désignation": "Gris ombre",
+    "REF": "U963",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba5"
+    },
+    "Désignation": "Gris ombre intégral",
+    "REF": "U9631",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba6"
+    },
+    "Désignation": "Gris onyx",
+    "REF": "U960",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba7"
+    },
+    "Désignation": "Gris perle",
+    "REF": "U763",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba8"
+    },
+    "Désignation": "Gris Perle 8",
+    "REF": "U763_8",
+    "€/m2": 9.9,
+    "€/Panneau": 57.3804,
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9ba9"
+    },
+    "Désignation": "Gris souris",
+    "REF": "U750",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G4",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9baa"
+    },
+    "Désignation": "Hêtre de Bavière",
+    "REF": "H1511",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G4",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST15"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bab"
+    },
+    "Désignation": "Hêtre du Tyrol",
+    "REF": "H1582",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G4",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST15"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bac"
+    },
+    "Désignation": "Hêtre Naturel Panneauté 20",
+    "REF": "HEPAN_20",
+    "€/m2": 66.1,
+    "€/Panneau": 201.605,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 20,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bad"
+    },
+    "Désignation": "Hêtre Naturel Panneauté 26",
+    "REF": "HEPAN_26",
+    "€/m2": 78.7,
+    "€/Panneau": 240.035,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 26,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bae"
+    },
+    "Désignation": "Hêtre Naturel Panneauté 32",
+    "REF": "HEPAN_32",
+    "€/m2": 90.1,
+    "€/Panneau": 274.805,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 32,
+    "Dimensions": "2,50x1,22",
+    "Type": "Massif",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9baf"
+    },
+    "Désignation": "Hickory naturel",
+    "REF": "H3730",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb0"
+    },
+    "Désignation": "Jaune citron",
+    "REF": "U131",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb1"
+    },
+    "Désignation": "Jaune curry",
+    "REF": "U163",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb2"
+    },
+    "Désignation": "Jaune maïs",
+    "REF": "U146",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb3"
+    },
+    "Désignation": "Jaune pastel",
+    "REF": "U107",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb4"
+    },
+    "Désignation": "Jaune safran",
+    "REF": "U140",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb5"
+    },
+    "Désignation": "Jaune tournesol",
+    "REF": "U114",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb6"
+    },
+    "Désignation": "Jaune vanille",
+    "REF": "U108",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb7"
+    },
+    "Désignation": "Laiton brossé",
+    "REF": "F784",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb8"
+    },
+    "Désignation": "Lilas",
+    "REF": "U420",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bb9"
+    },
+    "Désignation": "Lin anthracite",
+    "REF": "F433",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bba"
+    },
+    "Désignation": "Lin taupe",
+    "REF": "F424",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bbb"
+    },
+    "Désignation": "Marbre de Carrare blanc",
+    "REF": "F204",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bbc"
+    },
+    "Désignation": "Marbre Levanto blanc",
+    "REF": "F812",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bbd"
+    },
+    "Désignation": "Marbre Levanto blanc",
+    "REF": "F812",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bbe"
+    },
+    "Désignation": "Marbre Levanto blanc",
+    "REF": "F812",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bbf"
+    },
+    "Désignation": "Marbre Levanto blanc",
+    "REF": "F812",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc0"
+    },
+    "Désignation": "Marbre Levanto blanc",
+    "REF": "F812",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc1"
+    },
+    "Désignation": "Marron foncé",
+    "REF": "U818",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc2"
+    },
+    "Désignation": "MDF Bouche Pore 10",
+    "REF": "MDF_10BP",
+    "€/m2": 12.8,
+    "€/Panneau": 74.1888,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 10,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc3"
+    },
+    "Désignation": "MDF Bouche Pore 16",
+    "REF": "MDF_16BP",
+    "€/m2": 15.5,
+    "€/Panneau": 89.838,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc4"
+    },
+    "Désignation": "MDF Bouche Pore 19",
+    "REF": "MDF_19BP",
+    "€/m2": 18.1,
+    "€/Panneau": 104.9076,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc5"
+    },
+    "Désignation": "MDF Bouche Pore 28",
+    "REF": "MDF_28BP",
+    "€/m2": 26.4,
+    "€/Panneau": 153.0144,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 28,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc6"
+    },
+    "Désignation": "MDF Hydro 10",
+    "REF": "MDF_10H",
+    "€/m2": 10.8,
+    "€/Panneau": 62.5968,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 10,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc7"
+    },
+    "Désignation": "MDF Hydro 12",
+    "REF": "MDF_12H",
+    "€/m2": 12.8,
+    "€/Panneau": 74.1888,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 12,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc8"
+    },
+    "Désignation": "MDF Hydro 16",
+    "REF": "MDF_16H",
+    "€/m2": 15.4,
+    "€/Panneau": 89.2584,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bc9"
+    },
+    "Désignation": "MDF Hydro 19",
+    "REF": "MDF_19H",
+    "€/m2": 17.6,
+    "€/Panneau": 102.0096,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bca"
+    },
+    "Désignation": "MDF Hydro 22",
+    "REF": "MDF_22H",
+    "€/m2": 20.6,
+    "€/Panneau": 119.3976,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bcb"
+    },
+    "Désignation": "MDF Hydro 30",
+    "REF": "MDF_30H",
+    "€/m2": 27.9,
+    "€/Panneau": 161.7084,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bcc"
+    },
+    "Désignation": "MDF Standard 10",
+    "REF": "MDF_10",
+    "€/m2": 8.2,
+    "€/Panneau": 47.5272,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 10,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bcd"
+    },
+    "Désignation": "MDF Standard 12",
+    "REF": "MDF_12",
+    "€/m2": 9.5,
+    "€/Panneau": 55.062,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 12,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bce"
+    },
+    "Désignation": "MDF Standard 16",
+    "REF": "MDF_16",
+    "€/m2": 11.9,
+    "€/Panneau": 68.9724,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 16,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bcf"
+    },
+    "Désignation": "MDF Standard 19",
+    "REF": "MDF_19",
+    "€/m2": 13.2,
+    "€/Panneau": 76.5072,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd0"
+    },
+    "Désignation": "MDF Standard 22",
+    "REF": "MDF_22",
+    "€/m2": 15.7,
+    "€/Panneau": 90.9972,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd1"
+    },
+    "Désignation": "MDF Standard 25",
+    "REF": "MDF_25",
+    "€/m2": 17.8,
+    "€/Panneau": 103.1688,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd2"
+    },
+    "Désignation": "MDF Standard 30",
+    "REF": "MDF_30",
+    "€/m2": 22.1,
+    "€/Panneau": 128.0916,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd3"
+    },
+    "Désignation": "MDF Standard 40",
+    "REF": "MDF_40",
+    "€/m2": 46.1,
+    "€/Panneau": 267.1956,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd4"
+    },
+    "Désignation": "MDF Standard 50",
+    "REF": "MDF_50",
+    "€/m2": 58.8,
+    "€/Panneau": 340.8048,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 22,
+    "Dimensions": "2,80x2,07",
+    "Type": "MDF",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd5"
+    },
+    "Désignation": "Mélèze anthracite",
+    "REF": "H3406",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd6"
+    },
+    "Désignation": "Mélèze blanc",
+    "REF": "H3403",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd7"
+    },
+    "Désignation": "Mélèze brun thermo",
+    "REF": "H3408",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd8"
+    },
+    "Désignation": "Mélèze marron",
+    "REF": "H3404",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bd9"
+    },
+    "Désignation": "Merisier Verona",
+    "REF": "H1615",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bda"
+    },
+    "Désignation": "Metallic bleu indigo",
+    "REF": "F462",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bdb"
+    },
+    "Désignation": "Metallic gris platine",
+    "REF": "F463",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bdc"
+    },
+    "Désignation": "Metallic inox",
+    "REF": "F500",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST20"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bdd"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bde"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G3",
+    "Gpe EGGER Strat": "DS2",
+    "ST": "ST2"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bdf"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be0"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST76"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be1"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST89"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be2"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be3"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be4"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be5"
+    },
+    "Désignation": "Noir",
+    "REF": "U999",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be6"
+    },
+    "Désignation": "Noir Uni 8",
+    "REF": "U999_8",
+    "€/m2": 9.9,
+    "€/Panneau": 57.3804,
+    "€/ Feuille Strat": "ND",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 8,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be7"
+    },
+    "Désignation": "Noyer Carini naturel",
+    "REF": "H3710",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST12"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be8"
+    },
+    "Désignation": "Noyer de Bourgogne naturel",
+    "REF": "H3734",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9be9"
+    },
+    "Désignation": "Noyer du Pacifique naturel",
+    "REF": "H3700",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bea"
+    },
+    "Désignation": "Noyer du Pacifique tabac",
+    "REF": "H3702",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G6",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9beb"
+    },
+    "Désignation": "Noyer Lincoln",
+    "REF": "H1714",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST19"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bec"
+    },
+    "Désignation": "Nude abricot",
+    "REF": "U232",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bed"
+    },
+    "Désignation": "Nude terracotta",
+    "REF": "U830",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bee"
+    },
+    "Désignation": "Orange",
+    "REF": "U332",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bef"
+    },
+    "Désignation": "Orange de Sienne",
+    "REF": "U350",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf0"
+    },
+    "Désignation": "Orange sorbet",
+    "REF": "U340",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf1"
+    },
+    "Désignation": "Orme Tossini blanc",
+    "REF": "H1701",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST33"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf2"
+    },
+    "Désignation": "Orme Tossini brun foncé",
+    "REF": "H1702",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST33"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf3"
+    },
+    "Désignation": "Orme Tossini grège",
+    "REF": "H1210",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST33"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf4"
+    },
+    "Désignation": "Orme Tossini marron",
+    "REF": "H1212",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G11",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST33"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf5"
+    },
+    "Désignation": "Pierre métallisée anthracite",
+    "REF": "F121",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G9",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST87"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf6"
+    },
+    "Désignation": "Pierre métallisée gris clair",
+    "REF": "F120",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf7"
+    },
+    "Désignation": "Pierre métallisée gris clair",
+    "REF": "F120",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf8"
+    },
+    "Désignation": "Pietra Grigia anthracite",
+    "REF": "F205",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bf9"
+    },
+    "Désignation": "Pietra Grigia noir",
+    "REF": "F206",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bfa"
+    },
+    "Désignation": "Pietra Grigia noir",
+    "REF": "F206",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bfb"
+    },
+    "Désignation": "Pietra Grigia noir",
+    "REF": "F206",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PM"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bfc"
+    },
+    "Désignation": "Pietra Grigia noir",
+    "REF": "F206",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bfd"
+    },
+    "Désignation": "Pietra Grigia noir",
+    "REF": "F206",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "PT",
+    "ST": "PT"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bfe"
+    },
+    "Désignation": "Pin Aland blanc",
+    "REF": "H3430",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9bff"
+    },
+    "Désignation": "Pin Aland polaire",
+    "REF": "H3433",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c00"
+    },
+    "Désignation": "Pin Cascina",
+    "REF": "H1401",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c01"
+    },
+    "Désignation": "Pin noué naturel",
+    "REF": "H3470",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G5",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c02"
+    },
+    "Désignation": "Pin Pasadena",
+    "REF": "H1486",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST36"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c03"
+    },
+    "Désignation": "Reflet noir",
+    "REF": "U998",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G10",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST38"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c04"
+    },
+    "Désignation": "Rose antique",
+    "REF": "U325",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c05"
+    },
+    "Désignation": "Rose flamingo",
+    "REF": "U363",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c06"
+    },
+    "Désignation": "Rose fuchsia",
+    "REF": "U337",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c07"
+    },
+    "Désignation": "Rouge",
+    "REF": "U321",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c08"
+    },
+    "Désignation": "Rouge bordeaux",
+    "REF": "U311",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c09"
+    },
+    "Désignation": "Rouge cerise",
+    "REF": "U323",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0a"
+    },
+    "Désignation": "Rouge cerise",
+    "REF": "U323",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "PG-PM",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "PG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0b"
+    },
+    "Désignation": "Rouge cerise",
+    "REF": "U323",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "HG",
+    "ST": "HG"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0c"
+    },
+    "Désignation": "Rouge grenat",
+    "REF": "U399",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0d"
+    },
+    "Désignation": "Rouge indien",
+    "REF": "U390",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0e"
+    },
+    "Désignation": "Rouge lipstick",
+    "REF": "U328",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c0f"
+    },
+    "Désignation": "Shorewood",
+    "REF": "H3090",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c10"
+    },
+    "Désignation": "Soft Black",
+    "REF": "U899",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c11"
+    },
+    "Désignation": "Soft Black intégral",
+    "REF": "U8991",
+    "€/m2": "ND",
+    "€/Panneau": "ND",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "ND",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c12"
+    },
+    "Désignation": "Soie grise",
+    "REF": "U707",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c13"
+    },
+    "Désignation": "Soie mauve",
+    "REF": "U400",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c14"
+    },
+    "Désignation": "Soie rose",
+    "REF": "U313",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c15"
+    },
+    "Désignation": "Textile beige",
+    "REF": "F416",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c16"
+    },
+    "Désignation": "Textile gris",
+    "REF": "F417",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST10"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c17"
+    },
+    "Désignation": "Vert amazone",
+    "REF": "U660",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c18"
+    },
+    "Désignation": "Vert émeraude",
+    "REF": "U655",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c19"
+    },
+    "Désignation": "Vert fjord",
+    "REF": "U636",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1a"
+    },
+    "Désignation": "Vert fougère",
+    "REF": "U650",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1b"
+    },
+    "Désignation": "Vert kiwi",
+    "REF": "U626",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1c"
+    },
+    "Désignation": "Vert Niagara",
+    "REF": "U646",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1d"
+    },
+    "Désignation": "Vert opale",
+    "REF": "U608",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1e"
+    },
+    "Désignation": "Vert pomme",
+    "REF": "U630",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c1f"
+    },
+    "Désignation": "Vert printemps",
+    "REF": "U600",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c20"
+    },
+    "Désignation": "Vert sapin",
+    "REF": "U606",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c21"
+    },
+    "Désignation": "Vert wasabi",
+    "REF": "U617",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c22"
+    },
+    "Désignation": "Violet",
+    "REF": "U430",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c23"
+    },
+    "Désignation": "Violet aubergine",
+    "REF": "U330",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c24"
+    },
+    "Désignation": "Violet foncé",
+    "REF": "U414",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c25"
+    },
+    "Désignation": "Violine",
+    "REF": "U404",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G8",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST9"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c26"
+    },
+    "Désignation": "Wenge du Mali",
+    "REF": "H3058",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c27"
+    },
+    "Désignation": "Whitewood",
+    "REF": "H1122",
+    "€/m2": "",
+    "€/Panneau": "",
+    "€/ Feuille Strat": "",
+    "€/Pan": {
+      " Rath": {}
+    },
+    "Epaisseur": 19,
+    "Dimensions": "2,80x2,07",
+    "Type": "Mélaminé",
+    "Surface": 5.796,
+    "Gpe EGGER Méla": "G7",
+    "Gpe EGGER Strat": "AUTRE REF.",
+    "ST": "ST22"
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c28"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 8",
+    "REF": "PEUPL_8SD",
+    "€/m2": 11.9,
+    "€/Panneau": 36.295,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 8,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c29"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 10",
+    "REF": "PEUPL_10SD",
+    "€/m2": 13.5,
+    "€/Panneau": 41.175,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 10,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2a"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 12",
+    "REF": "PEUPL_12SD",
+    "€/m2": 16.2,
+    "€/Panneau": 49.41,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 12,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2b"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 15",
+    "REF": "PEUPL_15SD",
+    "€/m2": 18.6,
+    "€/Panneau": 56.73,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 15,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2c"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 18",
+    "REF": "PEUPL_18SD",
+    "€/m2": 21.5,
+    "€/Panneau": 65.575,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 18,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2d"
+    },
+    "Désignation": "CP PEUPLIER 2500/1220 22",
+    "REF": "PEUPL_22SD",
+    "€/m2": 26.4,
+    "€/Panneau": 80.52,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 22,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2e"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 8",
+    "REF": "PEUPL_8XL",
+    "€/m2": 10,
+    "€/Panneau": 47.43,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 8,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c2f"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 10",
+    "REF": "PEUPL_10XL",
+    "€/m2": 15.7,
+    "€/Panneau": 74.4651,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 10,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c30"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 12",
+    "REF": "PEUPL_12XL",
+    "€/m2": 19.4,
+    "€/Panneau": 92.0142,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 12,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c31"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 15",
+    "REF": "PEUPL_15XL",
+    "€/m2": 21.7,
+    "€/Panneau": 102.9231,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 15,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c32"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 18",
+    "REF": "PEUPL_18XL",
+    "€/m2": 25.1,
+    "€/Panneau": 119.0493,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 18,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c33"
+    },
+    "Désignation": "CP PEUPLIER 3100/1530 22",
+    "REF": "PEUPL_22XL",
+    "€/m2": 31.7,
+    "€/Panneau": 150.3531,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 22,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c34"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 8",
+    "REF": "OKOU_8SD",
+    "€/m2": 12.4,
+    "€/Panneau": 37.82,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 8,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c35"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 10",
+    "REF": "OKOU_10SD",
+    "€/m2": 13.3,
+    "€/Panneau": 40.565,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 10,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c36"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 12",
+    "REF": "OKOU_12SD",
+    "€/m2": 16.5,
+    "€/Panneau": 50.325,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 12,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c37"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 15",
+    "REF": "OKOU_15SD",
+    "€/m2": 19,
+    "€/Panneau": 57.95,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 15,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c38"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 18",
+    "REF": "OKOU_18SD",
+    "€/m2": 22.7,
+    "€/Panneau": 69.235,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 18,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c39"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 22",
+    "REF": "OKOU_22SD",
+    "€/m2": 27.4,
+    "€/Panneau": 83.57,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 22,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3a"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 25",
+    "REF": "OKOU_25SD",
+    "€/m2": 33.6,
+    "€/Panneau": 102.48,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 25,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3b"
+    },
+    "Désignation": "CP OKOUME STD 2500/1220 30",
+    "REF": "OKOU_30SD",
+    "€/m2": 41.3,
+    "€/Panneau": 125.965,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 30,
+    "Dimensions": "2,50x1,22",
+    "Type": "Contreplaqué",
+    "Surface": 3.05
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3c"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 8",
+    "REF": "OKOU_8XL",
+    "€/m2": 14.1,
+    "€/Panneau": 66.8763,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 8,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3d"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 10",
+    "REF": "OKOU_10XL",
+    "€/m2": 15.1,
+    "€/Panneau": 71.6193,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 10,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3e"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 12",
+    "REF": "OKOU_12XL",
+    "€/m2": 19.1,
+    "€/Panneau": 90.5913,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 12,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c3f"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 15",
+    "REF": "OKOU_15XL",
+    "€/m2": 21.5,
+    "€/Panneau": 101.9745,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 15,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c40"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 18",
+    "REF": "OKOU_18XL",
+    "€/m2": 25.7,
+    "€/Panneau": 121.8951,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 18,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c41"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 22",
+    "REF": "OKOU_22XL",
+    "€/m2": 31.1,
+    "€/Panneau": 147.5073,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 22,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c42"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 25",
+    "REF": "OKOU_25XL",
+    "€/m2": 38.1,
+    "€/Panneau": 180.7083,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 25,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c43"
+    },
+    "Désignation": "CP OKOUME STD 3100/1530 30",
+    "REF": "OKOU_30XL",
+    "€/m2": 46.9,
+    "€/Panneau": 222.4467,
+    "€/ Feuille Strat": "ND",
+    "Epaisseur": 30,
+    "Dimensions": "3,10x1,53",
+    "Type": "Contreplaqué",
+    "Surface": 4.743
+  },{
+    "_id": {
+      "$oid": "63e20c5e834c00f50f6c9c44"
+    },
+    "Désignation": "PLACAGE CHÊNE "
+  }]
+  
