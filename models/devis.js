@@ -13,7 +13,7 @@ const devisSchema = mongoose.Schema({
   adress: String,
   createdAt: Date,
   numero: Number,
-  product: [productSchema],
+  product: String,
 });
 
 const Devis = mongoose.model("devis", devisSchema);

@@ -127,23 +127,23 @@ router.delete("/deleteDevis", async (req, res) => {
 
 /* ajouter le produit au sous document product du schema devis */
 
-router.put("/addProduct/:id", async (req, res) => {
-  const product = req.body.product;
-  const id = req.params.id;
-  try {
-    const data = await Devis.findOneAndUpdate(
-      { id },
-      {
-        $set: { product: { product: product } },
-      },
-      { new: true }
-    );
-    if (data) {
-      res.json({ result: true });
-    }
-  } catch (err) {
-    res.json({ result: false, error: err });
-  }
-});
+// router.put("/addProduct/:id", async (req, res) => {
+//   const product = req.body.product;
+//   const id = req.params.id;
+//   try {
+//     const data = await Devis.findOneAndUpdate(
+//       { id },
+//       {
+//         $set: { product: { product: product } },
+//       },
+//       { new: true }
+//     );
+//     if (data) {
+//       res.json({ result: true });
+//     }
+//   } catch (err) {
+//     res.json({ result: false, error: err });
+//   }
+// });
 
 module.exports = router;
