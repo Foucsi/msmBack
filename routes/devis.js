@@ -30,6 +30,7 @@ router.post("/:token", async (req, res) => {
       adress,
       createdAt: new Date(),
       numero: req.body.numero,
+      product: req.body.product,
     });
 
     const saveDevis = await newDevis.save();
@@ -121,6 +122,27 @@ router.delete("/deleteDevis", async (req, res) => {
   } catch (err) {
     //Si une erreur est survenue dans le bloc try, la capture dans la variable "err".
     res.json({ result: false, message: err });
+  }
+});
+
+/* ajouter le produit au sous document product du schema devis */
+
+router.put("/addProduct/:id", async (req, res) => {
+  const product = req.body.product;
+  const id = req.params.id;
+  try {
+    const data = await Devis.findOneAndUpdate(
+      { id },
+      {
+        $set: { product: { product: product } },
+      },
+      { new: true }
+    );
+    if (data) {
+      res.json({ result: true });
+    }
+  } catch (err) {
+    res.json({ result: false, error: err });
   }
 });
 
