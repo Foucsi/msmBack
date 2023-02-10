@@ -4,6 +4,7 @@ require("../models/connection");
 const { checkBody } = require("../modules/checkBody");
 
 const Clients = require("../models/clients");
+const User = require("../models/users");
 
 /* recuperer la liste des clients */
 router.get("/all", async (req, res) => {
@@ -38,21 +39,27 @@ router.get("/:name", async (req, res) => {
 });
 
 /* route permettant d'enregistrer un client en db */
-router.post("/", async (req, res) => {
-  const { name, tel, email, adress } = req.body;
+router.post("/:token", async (req, res) => {
+  const token = req.params.token;
+  const { name, tel, email, adress, user } = req.body;
   if (!checkBody(req.body, ["name"])) {
     return res.json({ result: false, error: "Missing or empty fields" });
   }
   try {
-    const existingClients = await Clients.findOne({ name });
-    if (existingClients) {
+    const existingClients = await User.findOne({ token });
+    if (!existingClients) {
       return res.json({ result: false, error: "Clients deja existant!" });
     }
     const newClients = new Clients({
+      author: existingClients._id,
+      user,
       name,
       tel,
       email,
       adress,
+      createdAt: new Date(),
+      devis: [],
+      facture: [],
     });
 
     const saveNewClient = await newClients.save();
