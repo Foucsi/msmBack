@@ -127,4 +127,19 @@ router.delete("/deleteDevis", async (req, res) => {
   }
 });
 
+/* route permettant de pouvoir modifier */
+router.put("/updateProfil", async (req, res) => {
+  const name = req.body.name;
+  const newName = req.body.newName;
+  try {
+    const client = await Clients.findOneAndUpdate({ name }, { name: newName });
+    if (!client) {
+      res.json({ result: false, error: "client not found!" });
+    }
+    res.json({ result: true, client });
+  } catch (err) {
+    res.json({ result: false, error: err });
+  }
+});
+
 module.exports = router;
