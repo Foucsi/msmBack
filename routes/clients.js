@@ -16,6 +16,19 @@ router.get("/all", async (req, res) => {
   res.json({ result: true, data });
 });
 
+/* get all devis */
+router.get("/getAllDevis", async (req, res) => {
+  try {
+    const data = await Clients.find({});
+    if (!data) {
+      res.json({ result: false });
+    }
+    res.json({ result: true, devis: data });
+  } catch (err) {
+    res.json({ result: false, message: err });
+  }
+});
+
 /* recuperer info client byId */
 // router.get("/:id", async (req, res) => {
 //   try {
@@ -66,6 +79,51 @@ router.post("/:token", async (req, res) => {
     res.json({ result: true, client: saveNewClient });
   } catch (err) {
     res.json({ result: false, error: err });
+  }
+});
+
+router.delete("/deleteDevis", async (req, res) => {
+  //Démarre une bloc try/catch pour capturer les erreurs potentielles.
+  try {
+    const data = await User.findOne({ token: req.body.token });
+    //Essaye de trouver un utilisateur avec le token spécifié dans le corps de la requête.
+    //La méthode findOne renvoie un seul document correspondant aux critères spécifiés.
+    if (!data) {
+      //Si aucun utilisateur n'a été trouvé, renvoie une réponse JSON avec "result: false" et "message: 'User not found!'"
+      res.json({ result: false, message: "User not found!" });
+    }
+
+    const devis = await Clients.findById(req.body.devisId).populate("author");
+    //Essaye de trouver un document "devis" avec l'ID spécifié dans le corps de la requête
+    //et peuple le champ "author".
+    // La méthode findById renvoie un seul document correspondant à l'ID spécifié.
+    // La méthode populate remplit un champ associé avec des données complètes plutôt qu'un simple ID de référence.
+    if (!devis) {
+      //Si aucun devis n'a été trouvé, renvoie une réponse JSON avec "result: false" et "message: 'Devis introuvable'"
+      res.json({ result: false, message: "Devis introuvable" });
+    } else if (
+      String(devis.author._id) !== String(data._id) &&
+      String(data.profil) !== "administrateur"
+      // dans ce code seul l'admin Aly a la possiblité de supprimer les devis de tous le monde
+    ) {
+      //Si l'auteur du devis n'est pas le même que l'utilisateur trouvé à l'étape 2,
+      //renvoie une réponse JSON avec "result: false" et "error: 'Vous n'etes pas autorisé a effectuer cette action'"
+      res.json({
+        result: false,
+        error: "Vous n'etes pas autorisé a effectuer cette action",
+      });
+      return;
+    }
+    const deleteDevis = await Clients.deleteOne({ _id: devis._id });
+    // Essaye de supprimer le document "devis" trouvé à l'étape 4.
+    //La méthode deleteOne supprime le premier document trouvé correspondant aux critères spécifiés.
+    if (deleteDevis) {
+      //Si la suppression du devis a réussi, renvoie une réponse JSON avec "result: true".
+      res.json({ result: true });
+    }
+  } catch (err) {
+    //Si une erreur est survenue dans le bloc try, la capture dans la variable "err".
+    res.json({ result: false, message: err });
   }
 });
 

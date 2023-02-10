@@ -7,6 +7,16 @@ const User = require("../models/users");
 const Factures = require("../models/factures");
 const Devis = require("../models/devis");
 
+/* recuperer la liste des clients */
+router.get("/all", async (req, res) => {
+  const data = await Clients.find({});
+
+  if (!data) {
+    res.json({ result: false, message: "Pas de clients enregistré!" });
+  }
+  res.json({ result: true, data });
+});
+
 /* Post a new Devis avec clef etrangere */
 router.post("/:token", async (req, res) => {
   const token = req.params.token;
