@@ -129,10 +129,13 @@ router.delete("/deleteDevis", async (req, res) => {
 
 /* route permettant de pouvoir modifier */
 router.put("/updateProfil", async (req, res) => {
-  const name = req.body.name;
-  const newName = req.body.newName;
+  const { name, newName, newEmail, newTel, newAdress } = req.body;
+
   try {
-    const client = await Clients.findOneAndUpdate({ name }, { name: newName });
+    const client = await Clients.findOneAndUpdate(
+      { name },
+      { email: newEmail, name: newName, tel: newTel, adress: newAdress }
+    );
     if (!client) {
       res.json({ result: false, error: "client not found!" });
     }
