@@ -33,6 +33,27 @@ router.put("/byName", async (req, res) => {
   res.json({ result: true, data });
 });
 
+/* delete devis clients byId */
+
+router.put("/deleteDevisById", async (req, res) => {
+  const name = req.body.name;
+  const id = req.body.id;
+  try {
+    const data = await Clients.findOneAndUpdate(
+      { name },
+      {
+        $pull: { devis: { _id: id } },
+      }
+    );
+    if (!data) {
+      res.json({ result: false, error: "Clients not found!" });
+    }
+    res.json({ result: true });
+  } catch (err) {
+    res.json({ result: false, error: err });
+  }
+});
+
 /* get all devis */
 router.get("/getAllDevis", async (req, res) => {
   try {

@@ -8,6 +8,8 @@ const devisSchema = mongoose.Schema({
       longueur: String,
       largeur: String,
       epaisseur: String,
+      hauteur: String,
+      profondeur: String,
     },
   ],
 });
