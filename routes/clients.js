@@ -16,6 +16,23 @@ router.get("/all", async (req, res) => {
   res.json({ result: true, data });
 });
 
+// ajoute un devis au sous document devis du client
+router.get("/byName", async (req, res) => {
+  const name = req.body.name;
+  const devis = req.body.devis;
+  const data = await Clients.findOneAndUpdate(
+    { name },
+    {
+      $push: { devis: { devis: devis } },
+    },
+    { new: true }
+  );
+  if (!data) {
+    res.json({ result: false, error: "Clients not found!" });
+  }
+  res.json({ result: true, data });
+});
+
 /* get all devis */
 router.get("/getAllDevis", async (req, res) => {
   try {
