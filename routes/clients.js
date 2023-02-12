@@ -145,4 +145,13 @@ router.put("/updateProfil", async (req, res) => {
   }
 });
 
+// router.get("/", async (req, res) => {
+//   const id = req.body.id;
+//   const data = await Clients.findOne({ _id: id });
+//   if (!data) {
+//     res.json({ result: false });
+//   }
+//   res.json({ result: true, data });
+// });
+
 module.exports = router;
