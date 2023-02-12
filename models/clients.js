@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
 
 const devisSchema = mongoose.Schema({
-  devis: String,
+  devis: [
+    { articles: String, longueur: String, largeur: String, epaisseur: String },
+  ],
 });
 
 const factureSchema = mongoose.Schema({

@@ -17,7 +17,7 @@ router.get("/all", async (req, res) => {
 });
 
 // ajoute un devis au sous document devis du client
-router.get("/byName", async (req, res) => {
+router.put("/byName", async (req, res) => {
   const name = req.body.name;
   const devis = req.body.devis;
   const data = await Clients.findOneAndUpdate(
