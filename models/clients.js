@@ -2,7 +2,13 @@ const mongoose = require("mongoose");
 
 const devisSchema = mongoose.Schema({
   devis: [
-    { articles: String, longueur: String, largeur: String, epaisseur: String },
+    {
+      user: String,
+      articles: String,
+      longueur: String,
+      largeur: String,
+      epaisseur: String,
+    },
   ],
 });
 
